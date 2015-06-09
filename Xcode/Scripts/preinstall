@@ -1,0 +1,7 @@
+#!/bin/sh
+ 
+# Remove existing /Applications/Xcode.app from machine
+ 
+if [ -d /Applications/Xcode.app ]; then
+  rm -rf /Applications/Xcode.app
+fi
