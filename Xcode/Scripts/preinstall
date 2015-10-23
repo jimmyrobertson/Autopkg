@@ -5,3 +5,5 @@
 if [ -d /Applications/Xcode.app ]; then
   rm -rf /Applications/Xcode.app
 fi
+
+exit 0
