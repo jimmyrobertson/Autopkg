@@ -4,4 +4,10 @@
 
 /Applications/Xcode.app/Contents/Developer/usr/bin/xcodebuild -license accept
 
+# Install the additional components
+
+/usr/sbin/installer -pkg /Applications/Xcode.app/Contents/Resources/Packages/MobileDevice.pkg -target /
+
+/usr/sbin/installer -pkg /Applications/Xcode.app/Contents/Resources/Packages/MobileDeviceDevelopment.pkg -target /
+
 exit 0
