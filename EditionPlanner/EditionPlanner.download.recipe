@@ -7,7 +7,7 @@
 
 </string>
     <key>Identifier</key>
-    <string>com.github.jimmyrobertson.EditionPlanner</string>
+    <string>com.github.jimmyrobertson.download.EditionPlanner</string>
     <key>Input</key>
     <dict>
         <key>NAME</key>
