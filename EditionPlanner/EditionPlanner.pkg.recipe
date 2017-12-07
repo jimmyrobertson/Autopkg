@@ -53,7 +53,7 @@
             <key>Arguments</key>
             <dict>
                 <key>input_plist_path</key>
-                <string>%pkgroot%/Applications/Edition\ Planner.app/Contents/Info.plist</string>
+                <string>%pkgroot%/Applications/Edition Planner.app/Contents/Info.plist</string>
             </dict>
         </dict>
         <dict>
