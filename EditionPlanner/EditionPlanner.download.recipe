@@ -16,7 +16,7 @@
         <string>http://editionplanner.assets.s3.amazonaws.com/updates/editionplanner/final/appcast.xml</string>
     </dict>
     <key>MinimumVersion</key>
-    <string>5.3.0</string>
+    <string>1.0</string>
     <key>Process</key>
     <array>
         <dict>
